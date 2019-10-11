@@ -9,8 +9,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-        </div>
+    <div>
+        <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+    </div>
     </form>
 </body>
 </html>
