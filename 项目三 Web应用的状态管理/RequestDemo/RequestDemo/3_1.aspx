@@ -9,11 +9,15 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server" method="post" action="">
+    <form id="form1" runat="server">
     <div>
-        Request对象获取表单数据<br />
+        Request对象获取表单数据<hr>
         <input name="txtName" type="text" />
         <input id="Submit1" type="submit" value="提交" />
+        <br />
+        <br />
+        <br />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="传参" />
     </div>
     </form>
 </body>

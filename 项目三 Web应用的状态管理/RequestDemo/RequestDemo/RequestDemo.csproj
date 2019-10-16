@@ -66,6 +66,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="3_1.aspx" />
+    <Content Include="3_2.aspx" />
+    <Content Include="Index.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -75,6 +77,20 @@
     </Compile>
     <Compile Include="3_1.aspx.designer.cs">
       <DependentUpon>3_1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="3_2.aspx.cs">
+      <DependentUpon>3_2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="3_2.aspx.designer.cs">
+      <DependentUpon>3_2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
