@@ -33,3 +33,5 @@ C:\Users\王鹏\Desktop\B2CSite\B2CSite\obj\Debug\B2CSite.csproj.CopyComplete
 C:\Users\王鹏\Desktop\B2CSite\B2CSite\obj\Debug\B2CSite.dll
 C:\Users\王鹏\Desktop\B2CSite\B2CSite\obj\Debug\B2CSite.pdb
 C:\Users\王鹏\Desktop\B2CSite\B2CSite\obj\Debug\B2CSite.csprojAssemblyReference.cache
+C:\Users\王鹏\Desktop\Study_ASP.NET\项目二 Web应用程序的界面设计\B2CSite\B2CSite\obj\Debug\B2CSite.dll
+C:\Users\王鹏\Desktop\Study_ASP.NET\项目二 Web应用程序的界面设计\B2CSite\B2CSite\obj\Debug\B2CSite.pdb
