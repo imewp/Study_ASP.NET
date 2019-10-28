@@ -7,9 +7,11 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace MasterPageDesignDemo {
-    
-    
-    public partial class Live {
+namespace MasterPageDesignDemo
+{
+
+
+    public partial class Live
+    {
     }
 }

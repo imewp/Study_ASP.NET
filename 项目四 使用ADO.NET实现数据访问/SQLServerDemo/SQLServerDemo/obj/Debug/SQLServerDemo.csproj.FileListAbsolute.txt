@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.dll.config
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.dll
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.pdb
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.dll
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.pdb
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.csprojResolveAssemblyReference.cache

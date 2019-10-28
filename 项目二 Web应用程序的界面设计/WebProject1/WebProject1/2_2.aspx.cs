@@ -14,7 +14,6 @@ namespace WebProject1
         {
 
         }
-
         protected void Button1_Click(object sender, EventArgs e)
         {
             Button btn = (Button)sender;

@@ -9,22 +9,17 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+       <div>
             <asp:Label ID="Label1" runat="server" Text="ASP.NET程序设计"></asp:Label>
             <br />
             <asp:Button ID="Button1" runat="server" Text="红色" CommandName="red" OnClick="Button1_Click" />
             <asp:Button ID="Button2" runat="server" CommandName="green" Text="绿色" OnClick="Button1_Click" />
             <asp:Button ID="Button3" runat="server" CommandName="blue" Text="蓝色" OnClick="Button1_Click"/>
-
             <br />
             <br />
-
             <asp:Button ID="Button4" runat="server" Text="红色" CommandName="red" OnCommand="Button_Click"/>
             <asp:Button ID="Button5" runat="server" Text="绿色" CommandName="green" OnCommand="Button_Click"/>
             <asp:Button ID="Button6" runat="server" Text="蓝色" CommandName="blue" OnCommand="Button_Click"/>
-
-
-
             <br />
             <br />
             单选按钮控件和单选按钮列表控件(RadioButton和RadioButtonList)<br />

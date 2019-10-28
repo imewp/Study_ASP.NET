@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>HTML服务器控件</title>
+     <title>HTML服务器控件</title>
     <script type="text/javascript">
         function Hello() {
             alert("页面响应！");
@@ -15,7 +15,6 @@
 <body>
     <form id="form1" runat="server">
         <div>
-
             <input id="Button1" type="button" value="按钮1" runat="server" onclick="Hello()" />
             <input id="Button2" type="button" value="按钮2" runat="server" onserverclick="Button2_ServerClick" />
         </div>

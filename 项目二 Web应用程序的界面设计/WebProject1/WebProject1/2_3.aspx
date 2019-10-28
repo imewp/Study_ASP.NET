@@ -10,7 +10,6 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            
             (1)必须项验证<br />
             用户名：<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ForeColor="Red" ControlToValidate="TextBox1" ErrorMessage="(用户名不能为空)" Font-Size="Small"></asp:RequiredFieldValidator>

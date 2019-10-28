@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MasterPageDesignDemo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("微软中国")]
 [assembly: AssemblyProduct("MasterPageDesignDemo")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright © 微软中国 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于 typelib 的 ID
-[assembly: Guid("8c9d095d-2c1d-422b-a091-58099a293ef0")]
+[assembly: Guid("0b7722dc-9fc9-45aa-8cb1-dd6c64c28899")]
 
 // 程序集的版本信息由下列四个值组成:
 //

@@ -13,7 +13,6 @@ namespace WebProject1
         {
 
         }
-
         protected void Button2_ServerClick(object sender, EventArgs e)
         {
             Button2.Value = "HTML服务器控件";
